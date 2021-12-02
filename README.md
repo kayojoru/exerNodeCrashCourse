@@ -1,10 +1,10 @@
 # Node.js Crash Course
 
 ## Summary of Steps to Complete (See corresponding sections below.)
-- [ ] Fork this assignment so you can work on your own copy.
-- [ ] Build the files described in the tutorial
-- [ ] Push your changes back to your GitHub repository.
-- [ ] Turn in a link to your GitHub repository for this assignment in Canvas.
+- [x] Fork this assignment so you can work on your own copy.
+- [x] Build the files described in the tutorial
+- [x] Push your changes back to your GitHub repository.
+- [x] Turn in a link to your GitHub repository for this assignment in Canvas.
 
 ## Fork this assignment
 
@@ -18,23 +18,23 @@
 ## Files
 
 * If you work along with the tutorial you will build the following folders and files.
-* node_modules
-* public
-  * style.css
-  * 404.html
-  * about.html
-  * index.html
-* reference
-  * test
-  * event_demo.js
-  * fs_demo.js
-  * http_demo.js
-  * os_demo.js
-  * path_demo.js
-  * url_demo.js
-* index.js
-* logger.js
-* package-lock.json
-* package.json
-* person.js
+* [x]node_modules
+* [x]public
+  * [x]style.css
+  * [x]404.html
+  * [x]about.html
+  * [x]index.html
+* [x]reference
+  * [x]test
+  * [x]event_demo.js
+  * [x]fs_demo.js
+  * [x]http_demo.js
+  * [x]os_demo.js
+  * [x]path_demo.js
+  * [x]url_demo.js
+* [x]index.js
+* [x]logger.js
+* [x]package-lock.json
+* [x]package.json
+* [x]person.js
 
